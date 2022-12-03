@@ -10,9 +10,15 @@
 
 * Financial gain can be done through support, plugins, and books
 
+# Status
+
+Inactive.
+
+I have worked on this on and off for years, and the current state is that it visually has only the abilty to have marching fields in different windows. Behind the scenes at has the entire math and marcher engine, but then we need to start adding plugins one at a time, like the line tool.
+
 # Why?
 
-Take into account that VDrill this was written in 2000 by music major at TCU. At the time there was no unit testing, continuous integration, or any type of static analysis. There was also a missing of the basics of computer science, but I managed and used it as a learning project. Overtime I tried to improve things, but it would always be limited by design decisions I would be unable to change without better automated testing in place.
+Take into account that VDrill this was written in 2000, and at the time there was no unit testing, continuous integration, or any type of static analysis. Overtime I tried to improve things, but it would always be limited by design decisions I would be unable to change without better automated testing in place.
 
 The only way to add a lot of the requested functionality in a way that would be more maintainable, I have determined would require starting this again from the ground up. I could also take advantage of all that fancy computer science undergraduate and graduate education, and the 15 years of software industry experience. This is why I am making another attempt at this.
 
